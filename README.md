@@ -1,5 +1,7 @@
 # linesofcode
-We often come across useful data in popular social media such as Twitter, LinkedIn, Facebook and  others. Using AI tools such as ChatGPT, Google Bard, and Python, we can transform this data into useful and  visually appealing charts. Data Found on Twitter
+```
+We often come across useful data in popular social media such as Twitter, LinkedIn, Facebook and  others. Using AI tools such as ChatGPT, Google Bard, and Python, 
+we can transform this data into useful and  visually appealing charts. Data Found on Twitter
 Twitter is a treasure repository of useful data. From the World of Statistics, @stats_feed, we have the
 following data:
 Lines of code:
@@ -29,3 +31,4 @@ Facebook: 62 million
 MacOS X: 84 million 
 Tesla: 100 million 
 Google: 2 billion
+```
